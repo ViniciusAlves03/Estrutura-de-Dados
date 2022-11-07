@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Atividade 2",
+        "Atividade 1",
+        "testesssss"
+    ],
+    "java.project.numerosBPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
