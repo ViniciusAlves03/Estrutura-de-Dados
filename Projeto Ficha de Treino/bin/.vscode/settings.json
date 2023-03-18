@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\vinic\\OneDrive\\UEPB\\Disciplinas P4\\LEDA\\Teste projeto\\json-simple-1.1.1.jar"
+    ]
+}

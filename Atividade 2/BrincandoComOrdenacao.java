@@ -1,5 +1,3 @@
-package Atividade2;
-
 public class BrincandoComOrdenacao {
     public static void main(String[] args) {
 

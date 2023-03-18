@@ -1,4 +1,3 @@
-package atividade02;
 
 /*
  * Interface para implementação da classe "Ordenacao".
